@@ -6,7 +6,7 @@ Explore more about my work, projects, and experiences on my portfolio website:
 ## 🤝 Connect With Me
 - LinkedIn: [https://www.linkedin.com/in/tsz-fung-poon-michael/](https://www.linkedin.com/in/tsz-fung-poon-michael/)
 - Email: michaelpoon0818@gmail.com
-- 
+
 <!--
 **michaelptf/michaelptf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
