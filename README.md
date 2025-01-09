@@ -1,7 +1,7 @@
 ### Hi there I am Michael👋
 ## 🌐 Portfolio Website
 Explore more about my work, projects, and experiences on my portfolio website:  
-**[https://michaelptf.github.io/2D_Protfolio/](https://michaelptf.github.io/2D_Protfolio/)**
+**[https://michaelptf.github.io/2D_Portfolio/](https://michaelptf.github.io/2D_Portfolio/)**
 
 ## 🤝 Connect With Me
 - LinkedIn: [https://www.linkedin.com/in/tsz-fung-poon-michael/](https://www.linkedin.com/in/tsz-fung-poon-michael/)
